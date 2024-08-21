@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CoWINDashboard-ReactJS/static/css/main.010c4e23.chunk.css",
+    "main.js": "/CoWINDashboard-ReactJS/static/js/main.c88a7ca5.chunk.js",
+    "main.js.map": "/CoWINDashboard-ReactJS/static/js/main.c88a7ca5.chunk.js.map",
+    "runtime-main.js": "/CoWINDashboard-ReactJS/static/js/runtime-main.de64d62e.js",
+    "runtime-main.js.map": "/CoWINDashboard-ReactJS/static/js/runtime-main.de64d62e.js.map",
+    "static/js/2.945cf4eb.chunk.js": "/CoWINDashboard-ReactJS/static/js/2.945cf4eb.chunk.js",
+    "static/js/2.945cf4eb.chunk.js.map": "/CoWINDashboard-ReactJS/static/js/2.945cf4eb.chunk.js.map",
+    "index.html": "/CoWINDashboard-ReactJS/index.html",
+    "static/css/main.010c4e23.chunk.css.map": "/CoWINDashboard-ReactJS/static/css/main.010c4e23.chunk.css.map",
+    "static/js/2.945cf4eb.chunk.js.LICENSE.txt": "/CoWINDashboard-ReactJS/static/js/2.945cf4eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de64d62e.js",
+    "static/js/2.945cf4eb.chunk.js",
+    "static/css/main.010c4e23.chunk.css",
+    "static/js/main.c88a7ca5.chunk.js"
+  ]
+}
